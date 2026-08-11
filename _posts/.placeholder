@@ -1,1 +1,6 @@
-
+---
+title: Test
+date: 1999-08-24 12:32:32 +/-TTTT
+categories: [Test2, Bill]
+tags: [nag]     # TAG names should always be lowercase
+---
