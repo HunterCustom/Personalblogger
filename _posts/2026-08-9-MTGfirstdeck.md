@@ -1,5 +1,5 @@
 ---
-title: Back Online!
+title: First Magic Deck
 author: hunter
 date: 2026-08-10 12:32:32 -0800
 categories: [Magic, MTG]
