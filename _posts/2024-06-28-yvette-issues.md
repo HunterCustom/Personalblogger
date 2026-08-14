@@ -22,7 +22,7 @@ I woke up at 6 AM the next morning and just left the house, specifically not wak
 
 
 ***Fix the images*** - 8/13/2026 I still forgot to fix this
-![Headlight](assets/img/74139789469__4BFC6688-DE27-428F-B0FD-C77E4988564F.fullsizerender.HEIC) ![Fender](assets/img/74139790694__DE32A206-13B4-4FF3-94FE-846707CFDCBF.fullsizerender.HEIC).
+
 
 Yup, that's right, somebody keyed the Miata. But as someone who knows that car and every dent on it and when it occurred (yes, I'm insane), I found it really convenient that my Miata suddenly had a key mark on it after Yvette's shenanigans that night.
 
