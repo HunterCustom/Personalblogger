@@ -121,9 +121,10 @@ So I had ChatGPT reorganize and rewrite the information into something a dumbass
 That helped tremendously.
 
 Unfortunately, understanding it better also made me realize how much of the fuel system I was about to change.
-
+{% comment %}
 ![Factory NB Miata fuel tank and pump assembly](nb-miata-fuel-tank-diagram.png){: w="1064" h="541" }
 _The factory NB Miata fuel tank and pump assembly. This innocent-looking thing is where a large portion of my problems are about to begin._
+{% endcomment %}
 
 Once I started looking at the factory hardlines, quick-connect fittings, tank assembly, and all the adapters I'd need...
 
