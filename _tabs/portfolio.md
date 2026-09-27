@@ -7,7 +7,7 @@ permalink: /portfolio/
 description: "Hunter Kovel's enterprise IT support experience, certifications, and personal projects in networking, Unraid, Docker, and virtualization."
 ---
 
-I'm Hunter Kovel, an IT field service professional with experience at **IBM and Unisys** supporting enterprise server, storage, and networking hardware. My work combines on-site troubleshooting, hardware service, and repair coordination. I'm building on that foundation with hands-on networking and infrastructure projects in my homelab.
+I'm Hunter Kovel, an IT field service professional with experience at **IBM, Unisys, and Dell partner service organizations** supporting enterprise server, storage, networking, and client hardware. My work combines on-site troubleshooting, hardware service, and repair coordination. I'm building on that foundation with hands-on networking and infrastructure projects in my homelab.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/hunter-kovel-00836a224/) · [View my GitHub](https://github.com/HunterCustom) · [Email me](mailto:{{ site.social.email }})
 
@@ -22,6 +22,10 @@ My client service experience spans banking, utilities, insurance, and higher edu
 ### Unisys — Field service and project coordination
 
 I covered field service across Connecticut and Massachusetts and coordinated a repair project involving more than **3,500 PCs**, using ServiceNow to track the work. That experience strengthened my ability to organize service activity, follow issues through to resolution, and communicate progress.
+
+### Dell client hardware service
+
+Earlier in my career, I worked as a Dell technician repairing **laptops, desktops, and workstations**. That work gave me a strong foundation in client hardware diagnostics, component replacement, operating system and hardware troubleshooting, and customer-facing field service.
 
 ## Selected homelab projects
 
@@ -62,6 +66,19 @@ I've deployed virtual machines and configured access from other computers around
 - **IBM Storage Insights Pro Technical Specialist**
 
 The IBM storage badges reflect completed technical training. My hands-on FlashSystem experience is currently limited.
+
+### Historical certifications and technical training
+
+The following credentials represent training and accreditations I held during earlier Dell partner and field service work. They are listed for historical context and should not be interpreted as current or active credentials unless separately noted.
+
+- **Dell Extended Partner Network** — renewed January 2024
+- **Dell Technologies DSP Foundations v4** — renewed January 2024
+- **Dell Security & Privacy Foundation 2024** — renewed January 2024
+- **Dell Client Foundations v2** — renewed January 2024
+- **Dell Client Advanced v3** — renewed January 2024
+- **FAA Part 107 Remote Pilot Certificate** — issued November 2016
+
+These credentials supported my work servicing Dell client systems and working in enterprise field-service environments. The Dell credentials are retained here as historical qualifications; verify their current status before presenting them as active certifications.
 
 ## More project writing
 
