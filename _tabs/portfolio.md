@@ -78,7 +78,7 @@ The following credentials represent training and accreditations I held during ea
 - **Dell Client Advanced v3** — renewed January 2024
 - **FAA Part 107 Remote Pilot Certificate** — issued November 2016
 
-These credentials supported my work servicing Dell client systems and working in enterprise field-service environments. The Dell credentials are retained here as historical qualifications; verify their current status before presenting them as active certifications.
+These credentials supported my work servicing Dell client systems and working in enterprise field-service environments. The Dell credentials are retained here as historical qualifications {% comment %} verify their current status before presenting them as active certifications. {% endcomment %}
 
 ## More project writing
 
