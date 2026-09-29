@@ -42,6 +42,6 @@ Telling my dad about the move has been disappointing. He and my stepmom, Yvette,
 
 I've told him he's welcome to come down, bring the derby cars, and find some races we can do together in North Carolina. Moving farther away doesn't mean I want to stop doing those things with him.
 
-Still, I need to make this choice for myself and for the life Bri and I are building together. I think Burlington will be a good place for us, and I genuinely believe this move will be good for my mental health.
+Still, I need to make this choice for myself and for the life Bri and I are building together. I think Burlington will be a good place for us, and I believe this move will be good for my mental health.
 
 So yeah. I'm excited, I'm stressed, and I have a lot to figure out before moving day. But a new home with Bri, a garage for the Miata, and VIR nearby? **Hell yeah.**

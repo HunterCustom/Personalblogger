@@ -1,12 +1,11 @@
 ---
 title: Miata's First Winter Storage
 author: hunter
-date: 2021-08-15 11:48:00 +0800
+date: 2021-08-15 11:48:00 -0400
 categories: [Cars, Miata]
 tags: [miata]
 ---
 
-# Winter Storage
+I put the Miata into winter storage to keep it away from Connecticut's salted roads. The car is rust-free, and I'd like to keep it that way.
 
-Placed the Miata into winter storage since I live in CT, and we get salt on the roads. This car has no rust, and I intend to keep it that way.
-![Miata in storage](/assets/img/2021/1stwinter.png)
+![Miata parked for winter storage](/assets/img/2021/1stwinter.png)

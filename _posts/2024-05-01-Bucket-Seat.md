@@ -1,14 +1,13 @@
 ---
-title: Finally! Proper Bucket Seats
+title: "Finally, a Proper Bucket Seat"
 author: hunter
-date: 2024-05-01 10:43:00 +0800
+date: 2024-05-01 10:43:00 -0400
 categories: [Cars, Miata]
 tags: [miata, mods, track]
 ---
-# New Seat, Better Lap Times?
 
-After three years of searching for a seat that would suit me and fit into the Miata, I finally found the Sparco QRT-R. But now comes the bigger challenge: How do I mount it? I'm all for modifying and bashing the transmission tunnel a bit to make the new seat mounts fit, but my father wasn't keen on the idea. We tried to find a seat mount that would work for the QRT-R and fit into the factory mounting area.
+After three years of looking for a seat that would fit both me and the Miata, I finally found the Sparco QRT-R. The harder question was how to mount it without modifying the transmission tunnel. My dad wasn't keen on that idea, so we looked for a mount that would use the factory mounting points.
 
-After the last event with Gorman Performance and riding in Jacob's BRZ, I realized how much the OEM seats were holding me back. I had to sacrifice foot movement, braking, and input times just to keep myself in the seat without being thrown in every possible direction. So, I decided to go for it and bought the Sparco QRT-R with the PCI Adjustable Seat mount for my Miata from Fab9tuning.
+At the last Gorman Performance event, I rode in Jacob's BRZ and realized how much time I spent bracing myself in the Miata's factory seat. That made braking and moving my feet harder than it needed to be. I ordered the QRT-R and a PCI adjustable seat mount from Fab9 Tuning.
 
-After only about a week or two, I got the parts (today, actually, 5/1/24) and started working on installing the new seat right away. Here's my process of getting this seat in.
+The parts arrived about a week or two later, on May 1, 2024, and I started the installation right away. I still need to document the fitment and the finished result here.

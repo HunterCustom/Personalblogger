@@ -1,36 +1,38 @@
 ---
-title: Home Server Specs
+title: "Home Lab Specs and Plans"
 author: hunter
-date: 2024-01-01 11:43:00 +0800
+date: 2024-01-01 11:43:00 -0500
 categories: [HomeLab, Server]
-tags: [Dell, R730, Home Lab, Server, PC Specs]
+tags: [homelab, dell-r730, unraid, server]
 ---
 
-# My Home Lab Specs & Plans
+The Dell R730 handles the bigger jobs, while a Lenovo M900 runs the services I want available around the clock. I'm also planning a smaller server to bridge the gap.
 
 ## Dell R730
+
 - iDRAC Enterprise
-- All 3 Risers 
-- 2 x 1100-watt power supply
+- All three risers 
+- Two 1,100 W power supplies
 - 10 Gb networking 
-- 2 x 2683 V4 CPUs 
-- 128GB DDR4 ECC 2400MHz (4x 32GB Sticks) 
-- 16 bay with 4x 1TB Samsung 870 SSDs
-- H730p
+- Two E5-2683 v4 CPUs 
+- 128 GB DDR4 ECC 2400 MHz (4 × 32 GB) 
+- 16 bays, with four 1 TB Samsung 870 SSDs
+- H730P
 - GTX 1070
 
 Connected to a Dell MD1200 via a Dell H810:
 - MD1200
-- 12 3.5" HGST 8TB 7200RPM Drives
+- Twelve 3.5-inch HGST 8 TB, 7,200 RPM drives
 
-Currently, the system is set up on Unraid, running a Jellyfin Media Server. However, due to power usage, I've shifted 24/7 tasks to a Lenovo M900
+The R730 runs Unraid and Jellyfin. Because it draws more power, I moved the services that need to stay online 24/7 to a Lenovo M900.
 
 ## Lenovo M900
-- 256GB Samsung 870 Evo
-- 32GB of non ecc RAM
+
+- 256 GB Samsung 870 EVO
+- 32 GB non-ECC RAM
 - i7-6700
 
-The M900 Runs:
+The M900 runs:
 - Vaultwarden
 - Mealie
 - Cloudflare
@@ -39,26 +41,27 @@ The M900 Runs:
 - CasaOS
 - Guacamole
 
-Current Plans are to convert my original server into a 2u Chassis and load the M900 features onto this as my original server supports ECC RAM.
+I plan to move the M900 services to my original server in a 2U chassis so I can use ECC memory.
 
-## Orginal Server
-The specs for that server are currently:
+## Original Server
+
+Its current parts are:
 - Supermicro X10SAE
-- i7-4709k
-- 32GB of non-ECC DDR3 RAM
-- 250GB Samsung 870 EVO
-- All inside of an old mid-tower PC case I had lying around.
+- Intel Core i7 (model to confirm)
+- 32 GB non-ECC DDR3 RAM
+- 250 GB Samsung 870 EVO
+- An old mid-tower case I already had
 
-The plan will be to swap parts to:
+For the rebuild, I'm considering:
 - Supermicro X10SAE
 - Xeon E3-1285L v4
-- 32GB of DDR3 ECC RAM
-- Dell H830 Raid Controller in HBA Mode? Might not do this as it's known to create issues, but I'd like to utilize the 12 GB/s from the MD1200 instead of my current 6 GB/s setup.
+- 32 GB DDR3 ECC RAM
+- A Dell H830 RAID controller in HBA mode, pending compatibility research. I'd like to improve the storage link, but I need to verify what the MD1200 and controller actually support.
 
-I'd also like to swap the 1070 to an RTX A2000 in the R730 as the A2000 has more transcoding capability than the 1070 (11 vs. 6 streams of 4k downscaled to 1080p).
+I'd also like to replace the GTX 1070 in the R730 with an RTX A2000 for more transcoding headroom. I still need to test how many simultaneous streams the setup can handle.
 
-The goal of my homelab is to be able to run a few programs 24/7 such as Vaultwarden, the website, Mealie, and Jellyfin on my low-power server that would be connected to the MD1200 for storage. While the R730 would be used to automatically download and convert video files to .h265 via Tdarr for more storage savings, even if I have 78TB of storage.
+The goal is to keep Vaultwarden, this website, Mealie, and Jellyfin running on the lower-power server. I'd use the R730 for heavier jobs such as video conversion with Tdarr. Even with a lot of storage, I'd rather avoid wasting it.
 
-Hopefully, I can make it so that the R730 and the Low Power server can easily share files between each other using the MD1200; this should be super simple. The R730 will most likely end up running Proxmox, while the Low Power will run Unraid as well. I will also convert my Unraid OS to a Samsung Bar Plus 128GB USB Stick instead of the current unknown name brand 32GB stick that has been in my house since at least 7th grade.
+I still need to work out how the two systems will share access to the files. The current plan is Proxmox on the R730 and Unraid on the lower-power server. I also want to move my Unraid boot drive to a Samsung Bar Plus 128 GB USB stick; the current no-name 32 GB stick has been around since I was in seventh grade.
 
-The reason for the R730 to be running Proxmox is that I want the ability to create VMs easily as well as mess with new environments that I learn about as I grow in my field.
+Proxmox would make it easier to spin up virtual machines and try new environments as I learn more in my field.

@@ -1,34 +1,34 @@
 ---
-title: 70k Oil change, Rust prevention, and hood vents
+title: 70,000-Mile Oil Change, Rust Prevention, and Hood Vents
 author: hunter
-date: 2024-05-29 11:00:00 +0800
+date: 2024-05-29 11:00:00 -0400
 categories: [Cars, Miata]
 tags: [miata, rust-prevention, mods]
 ---
 
 ## 70k Oil Change
 
-I won't lie, the title makes it sound as if I only change the oil every 70k miles. This was actually a 3,500-mile oil change. I always change the oil every 5k miles or after every winter storage. In this case, winter storage came first. I also use full synthetic oil, 5w-30. Now, onto my bigger issue: ✨Rust Prevention✨
+I won't lie, the title makes it sound as if I only change the oil every 70k miles. This was actually a 3,500-mile oil change. I always change the oil every 5k miles or after every winter storage. In this case, winter storage came first. I also use full synthetic oil, 5W-30. Now, onto my bigger issue: ✨Rust Prevention✨
 
-# Rust Prevention
+## Rust Prevention
 
 With 70k miles and 3 years of ownership, I've never checked the fender wells for dirt or other debris. Inspired by my friend Cash's videos from CashedOutCars on YouTube, I decided to do this. The original plan was to only pull the bottom of the fenders out, with no intention of fully removing them. Anyway, I ended up fully removing the fenders.
 
 ![Fender 1 off](/assets/img/2024/70k-fender-hoodvents/fender1off.jpg)
 
-Once I had the driver side off, I was more than happy to take off the passenger side as well. I don't even care; even with the fenders off, the car is still very attractive to me, though we'll have to do something about those headlights soon.
+Once I had the driver-side off, I was more than happy to take off the passenger-side as well. I don't even care; even with the fenders off, the car is still very attractive to me, though we'll have to do something about those headlights soon.
 
 ![Fender 2 off](/assets/img/2024/70k-fender-hoodvents/fender2off.jpg)
 
-This is the surprising amount of dirt that came out of the driver side fender, along with a headlight bulb and a flashlight, neither of which were mine, lol.
+This is the surprising amount of dirt that came out of the driver-side fender, along with a headlight bulb and a flashlight, neither of which were mine, lol.
 
 ![Dirt from fender](/assets/img/2024/70k-fender-hoodvents/fenderdirt.jpg)
 
-Surprisingly, the driver side fender had a fair amount of rust starting, while the passenger side barely had any. Still, rust isn't something I strive for with this car. She's 23 years old and in great shape, and I plan to keep her like this for a long time.
+Surprisingly, the driver-side fender had a fair amount of rust starting, while the passenger-side barely had any. Still, rust isn't something I strive for with this car. She's more than two decades old and in great shape, and I plan to keep her like this for a long time.
 
 ![Fender rust](/assets/img/2024/70k-fender-hoodvents/fenderrust.jpg)
 
-To solve my rust issue, I used the paint/chemical POR-15. This is a special paint that helps prevent and stop rust.
+To solve my rust issue, I used the paint/chemical POR-15, a coating intended to protect treated metal from corrosion.
 
 ![Fender painted](/assets/img/2024/70k-fender-hoodvents/fenderpaint.jpg)
 
@@ -42,14 +42,15 @@ This wasn't planned, but while I had the fenders off, I found an OEM hole that r
 
 And this is it once finished. While it's not pretty, it will be hidden inside the fender, creating a cleaner engine bay than what I had.
 
-![Colors](/assets/img/2024/70k-fender-hoodvents/fenderwiresclean.jpg)
-![Clean](/assets/img/2024/70k-fender-hoodvents/engienbayclean.jpg)
+![Headlight wiring tucked inside the fender](/assets/img/2024/70k-fender-hoodvents/fenderwiresclean.jpg)
+
+![Engine bay after rerouting the headlight wiring](/assets/img/2024/70k-fender-hoodvents/engienbayclean.jpg)
 
 I'm very happy with how this came out, and it was definitely worth trying.
 
-# Hood Vent Installation
+## Hood Vent Installation
 
-Now the fun and most planned-out part: I had ordered these hood vents from rgr.engineering and would suggest them to anyone who wants hood vents. After removing the hood, my dad and I used masking tape to protect it as much as we could. We also had to borrow a jigsaw from my dad's friend.
+Now the fun and most planned-out part: I had ordered these hood vents from RGR Engineering and would suggest them to anyone who wants hood vents. After removing the hood, my dad and I used masking tape to protect it as much as we could. We also had to borrow a jigsaw from my dad's friend.
 
 ![Masking tape](/assets/img/2024/70k-fender-hoodvents/painterstape.jpg)
 
@@ -63,18 +64,19 @@ Unfortunately, because I didn't take many photos during the cutting process, I o
 
 And here is the hood with the vents riveted onto the holes. It looks great.
 
-![Hood riveted](/assets/img/2024/70k-fender-hoodvents/hoodrivits.jpg)
+![Hood vents riveted into place](/assets/img/2024/70k-fender-hoodvents/hoodrivits.jpg)
 
 The next two photos are just me working on the fender/hood alignments but still felt like they could be included here.
 
-![Fender 1](/assets/img/2024/70k-fender-hoodvents/mocinstall.jpg)
-![Fender 2](/assets/img/2024/70k-fender-hoodvents/mocinstall2.jpg)
+![Mocking up the first fender alignment](/assets/img/2024/70k-fender-hoodvents/mocinstall.jpg)
+
+![Mocking up the second fender alignment](/assets/img/2024/70k-fender-hoodvents/mocinstall2.jpg)
 
 And here is the finished result. Sadly, I couldn't get the hood alignment to be perfect due to the slightly bent frame, but that's okay because race car... and you bet your ass I love her.
 
-![Love of my life](/assets/img/2024/70k-fender-hoodvents/back2geth.jpg)
+![Miata with the newly vented hood and reinstalled fenders](/assets/img/2024/70k-fender-hoodvents/back2geth.jpg)
 
-# Cabin Air Filter
+## Cabin Air Filter
 
 So, fun fact about the NA and NB Miatas: they don't have a cabin air filter. This means that during pollen season, all the pollen gets blown into the car right after I detail it. To prevent this, I 3D printed a cabin air filter design I found online, and it fit like a glove.
 

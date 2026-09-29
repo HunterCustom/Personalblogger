@@ -1,11 +1,17 @@
 ---
-title: Drone no flying
+title: "Troubleshooting the Seven-Inch Drone"
 author: hunter
-date: 2024-03-23 18:57:00 +0800
+date: 2024-06-23 12:00:00 -0400
 categories: [Drones, FPV]
-tags: [fpv, iflight, 7in, prop wash]
+tags: [fpv, iflight, seven-inch-drone, troubleshooting]
 ---
 
-### This is just going to be me making a list of attempted repairs for the drone
+I'm using this post to keep track of what I've tried while troubleshooting the seven-inch drone.
 
-So the first issue of this drone was that upon arming the drone it would flip its shit and do a flip. Made sure the motor direction was correct, made sure the props were correct, and the gyro oreientation was sloid. everything was solding with those 3. after disabiling airmod I was able to get the quad to idle without offing itself. however I now have the issue of the drone desyncing mid flight. 
+## Flipping on Arm
+
+At first, the drone flipped as soon as I armed it. I checked motor direction, propeller orientation, and gyro orientation, and they all appeared correct. Disabling Air Mode let the quad idle without flipping.
+
+## Desync in Flight
+
+Now it desyncs in mid-flight. I still need to isolate the cause before I can trust it in the air again.

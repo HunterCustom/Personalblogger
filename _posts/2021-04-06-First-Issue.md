@@ -1,20 +1,17 @@
 ---
-title: First Issue - Fuel Tank
+title: "First Issue: A Rusty Fuel Tank"
 author: hunter
-date: 2021-04-06 17:38:00 +0800
+date: 2021-04-06 17:38:00 -0400
 categories: [Cars, Miata]
 tags: [miata]
 ---
 
-# Baby's First Issue
-Well, it didn't take long for that salvage title to bite back. I thought, what better way to test out my new car and learn stick shift than on a week-long trip down to Virginia to visit my mother? What could go wrong?
+I wasn't expecting my first issue with the Miata to happen on a road trip, but that's exactly what happened. I drove down to Virginia to visit my mother and get more practice with the manual transmission. The trip south went smoothly, and even my uncle, who drives stick every day, gave me a few pointers.
 
-I'll admit, the car made it down to Virginia without any problems, and the whole family loved it. Even my uncle, who drives a manual daily, gave me a few pointers and was quite impressed with how I handled the car. But after the week-long trip, it was time to drive back to CT and resume life as a car wash attendant.
+On the way back through Pennsylvania, the Miata started losing power and bucking. I pulled over, thinking it might be overheating. It restarted, but the problem came back. After a few rounds of that, I plugged in my OBD scanner. I don't remember the exact code, but it pointed me toward the fuel pump.
 
-However, on the way back through Pennsylvania, the Miata started losing power, bucking uncontrollably. My lack of clutch experience didn't help, and I pulled the car off to the side of the road, thinking it might be overheating. After a moment's pause, I managed to start the car again and continued driving, only for the issue to recur. After a few cycles of this, I remembered I had my OBD scanner handy and checked for any engine codes. While I don't recall the specific code, it pointed to a fuel pump issue.
+A local mechanic found that the inside of the fuel tank was badly rusted. They cleaned it out and replaced the pump, but recommended replacing the tank itself.
 
-I found a mechanic in the area who discovered the entire fuel tank had rusted inside out. They cleaned out the tank and installed a new fuel pump but suggested I get a new fuel tank altogether.
+![Rust inside the Miata's fuel tank](/assets/img/2021/rustedfueltank.png)
 
-![Rusted Fuel Tank](/assets/img/2021/rustedfueltank.png)
-
-So, I reached out to the guys at [Expoline Auto](https://expolineauto.com), who offered to replace my fuel tank and fuel pump for free. They took a tank and pump from a low-mileage '99 Miata and installed it into mine. They were awesome and quick, and they didn't ask for anything in return.
+I contacted [Expoline Auto](https://expolineauto.com), where I bought the car. They offered to replace the tank and pump at no charge, using parts from a low-mileage 1999 Miata. They handled it quickly and didn't ask for anything in return. I was relieved to have the car back on the road.
