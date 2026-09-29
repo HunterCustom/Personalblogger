@@ -4,10 +4,10 @@ layout: page
 icon: fas fa-network-wired
 order: 0
 permalink: /portfolio/
-description: "Hunter Kovel's enterprise IT support experience, certifications, and personal projects in networking, Unraid, Docker, and virtualization."
+description: "Hunter Kovel's enterprise IT infrastructure experience, technical credentials, and personal projects in networking, servers, storage, Unraid, Docker, and virtualization."
 ---
 
-I'm Hunter Kovel, an IT field service professional with experience at **IBM, Unisys, and Dell partner service organizations** supporting enterprise server, storage, networking, and client hardware. My work combines on-site troubleshooting, hardware service, and repair coordination. I'm building on that foundation with hands-on networking and infrastructure projects in my homelab.
+I'm Hunter Kovel, an IT infrastructure and field service professional with experience at **IBM, Unisys, and Dell partner service organizations** supporting enterprise servers, storage, networking hardware, and client systems. My work combines independent on-site troubleshooting, hardware service, repair coordination, and customer-facing support. I'm building on that foundation with hands-on networking, systems, and infrastructure projects in my homelab.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/hunter-kovel-00836a224/) · [View my GitHub](https://github.com/HunterCustom) · [Email me](mailto:{{ site.social.email }})
 
@@ -15,9 +15,11 @@ I'm Hunter Kovel, an IT field service professional with experience at **IBM, Uni
 
 ### IBM — Systems Services Representative
 
-I provide on-site service for enterprise IT equipment, including Dell PowerEdge servers, NetApp storage, Lenovo infrastructure, Cisco networking hardware, and client devices. My work involves diagnosing hardware problems, carrying out repairs, and coordinating with support teams to resolve service calls.
+I provide on-site enterprise hardware service across customer environments in Connecticut and Massachusetts. My work includes diagnosing failures, replacing components, validating repairs, documenting service activity, and coordinating with remote support teams while independently managing field calls and travel.
 
-My client service experience spans banking, utilities, insurance, and higher education.
+The platforms and equipment I support include **Dell PowerEdge servers and client systems, NetApp storage, Lenovo ISG infrastructure, Cisco networking hardware, and Lexmark enterprise printing**. My client service experience spans banking, utilities, insurance, higher education, and other enterprise environments.
+
+Alongside field work, I've completed IBM and vendor technical learning covering enterprise storage, server platforms, networking support, and service procedures. This training complements my hands-on hardware experience without being presented as production administration experience where that has not been established.
 
 ### Unisys — Field service and project coordination
 
@@ -41,13 +43,19 @@ My documentation records the network and SSID mappings, the purpose of each segm
 
 ### Dell PowerEdge R730 and Unraid
 
-My homelab runs **Unraid on a Dell PowerEdge R730**, with most applications hosted in Docker. It includes a Jellyfin media environment accessed through Moonfin clients and an automated media workflow.
+My primary homelab server runs **Unraid on a Dell PowerEdge R730** with dual **Xeon E5-2683 v4** processors, **384 GB DDR4 ECC memory**, dual **NVIDIA RTX A4000** GPUs, approximately **80 TB of usable storage**, and **3.9 TB of cache**. Most applications are containerized with Docker, including my Jellyfin media environment and supporting services.
 
-I'm documenting the current storage layout, container configuration, application dependencies, and maintenance procedures so the setup is easier to understand and maintain.
+I'm documenting the storage layout, container configuration, application dependencies, network access, and maintenance procedures so the environment is easier to understand and maintain.
 
-**Skills demonstrated:** Server hardware, Unraid administration, Docker application hosting, and application troubleshooting.
+**Skills demonstrated:** Enterprise server hardware, Unraid administration, Docker application hosting, storage management, GPU-backed workloads, and application troubleshooting.
 
 [Read my earlier server specifications and plans]({% post_url 2024-01-01-Home-lab-plans %}) — a historical snapshot from 2024, rather than a current inventory.
+
+### Lenovo M900 secondary server
+
+A **Lenovo M900 Tiny** provides a second lab host with an **Intel Core i7-6700T**, **64 GB RAM**, and **1 TB mirrored storage**. I use it for additional Docker-hosted services and to separate selected workloads from the primary R730.
+
+**Skills demonstrated:** Small-form-factor server deployment, mirrored storage, Docker hosting, service separation, and system maintenance.
 
 ### Virtual machines and remote access
 
@@ -57,15 +65,23 @@ I've deployed virtual machines and configured access from other computers around
 
 ## Certifications and accreditations
 
-- **Cisco CCT Field Technician**
-- **NetApp Accredited Service Engineer Level 2 Associate**
+- **Cisco Certified Technician (CCT)**
+- **NetApp Accredited Service Engineer 2 (ASE2)**
+- **Lenovo ISG technical credential**
+- **Lexmark enterprise printing technical credential**
 
-### Technical training and badges
+## IBM and vendor technical training
+
+My IBM learning history includes a much larger internal completion record; the items below are the training most relevant to the infrastructure roles I'm pursuing.
 
 - **IBM FlashSystem Technical Essentials**
 - **IBM Storage Insights Pro Technical Specialist**
+- **NetApp AFF / ASA service training**
+- **Lenovo ThinkSystem technical training**
+- **SAN concepts and enterprise storage fundamentals**
+- **Supermicro server service training**
 
-The IBM storage badges reflect completed technical training. My hands-on FlashSystem experience is currently limited.
+These entries represent completed technical training and service learning. They are intentionally listed separately from certifications. My hands-on FlashSystem administration experience is currently limited, so I do not present the FlashSystem coursework as production storage-administration experience.
 
 ### Historical certifications and technical training
 
@@ -86,7 +102,7 @@ My [HomeLab posts]({{ '/categories/homelab/' | relative_url }}) include server n
 
 ## Get in touch
 
-I'm relocating to **Burlington, North Carolina, in November 2026** and am interested in network support, infrastructure support, enterprise field engineering, and systems administration opportunities that build on my experience.
+I'm relocating to **Burlington, North Carolina, in November 2026** and am interested in network support, systems and infrastructure support, data center infrastructure, enterprise field engineering, and systems administration opportunities that build on my experience.
 
 For a copy of my résumé or to discuss an opportunity, [email me](mailto:{{ site.social.email }}) or [connect on LinkedIn](https://www.linkedin.com/in/hunter-kovel-00836a224/).
 
